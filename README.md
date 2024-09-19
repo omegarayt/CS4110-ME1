@@ -1,1 +1,1 @@
-# CS4110-ME1
+Alan Turing's seminal paper, "Computing Machinery and Intelligence," published in 1950, marks a pivotal moment in the discourse surrounding artificial intelligence (AI). Turing's inquiry into whether machines can think has not only shaped the field of AI but has also sparked profound philosophical debates about the nature of intelligence itself.
